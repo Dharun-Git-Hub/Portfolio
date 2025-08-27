@@ -1,3 +1,19 @@
+/*-----------------------------------*\
+  #style.css
+\*-----------------------------------*/
+
+
+/**
+ * copyright 2022 @codewithsadee
+ */
+
+
+
+
+
+/*-----------------------------------*\
+  #CUSTOM PROPERTY
+\*-----------------------------------*/
 
 :root {
 
@@ -232,7 +248,7 @@ article {
   position: sticky;
 }
 
-.timeline button{
+.timeline button, .download-cv{
   background-image: url('../images/logo.ico');
   color: white;
   padding: 10px;
@@ -241,9 +257,13 @@ article {
   margin-top: 5px;;
 }
 
-.timeline button:hover{
+.timeline button:hover, .download-cv:hover{
   background-position: 10cm;
   transform: scale(1.1);
+}
+
+.download-cv{
+  margin-top: 20px;
 }
 
 .separator {
@@ -442,7 +462,7 @@ main {
   top: -15px;
   right: -15px;
   border-radius: 0 15px;
-  font-size: 13px;
+  font-size: 15px;
   color: var(--orange-yellow-crayola);
   background: var(--border-gradient-onyx);
   padding: 10px;
@@ -566,7 +586,7 @@ main {
 
 .navbar-link {
   color: var(--light-gray);
-  font-size: var(--fs-8);
+  font-size: 14px;
   padding: 20px 7px;
   transition: color var(--transition-1);
 }
@@ -658,6 +678,23 @@ main {
 /**
  * #testimonials 
  */
+
+ .dotf{
+  width: 100%;
+  height: 10px;
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+ }
+
+ .dotf .dotted{
+  width: 10px;
+  height: 10px;
+  background-color: rgba(245, 245, 245, 0.444);
+  border-radius: 50%;
+ }
 
 .testimonials { margin-bottom: 30px; }
 
@@ -908,11 +945,25 @@ main {
 .timeline-item:not(:last-child)::before {
   content: "";
   position: absolute;
-  top: -25px;
+  top: 0px;
   left: -30px;
-  width: 1px;
+  width: 2px;
   height: calc(100% + 50px);
+  animation: grow 3s infinite;
+  animation-direction: alternate-reverse;
   background: var(--jet);
+}
+
+@keyframes grow {
+  0%{
+    height: 0px;
+  }
+  50%{
+    height: calc(100% + 35px);
+  }
+  100%{
+    height: 0px;
+  }
 }
 
 .timeline-item::after {
@@ -925,12 +976,26 @@ main {
   background: var(--text-gradient-yellow);
   border-radius: 50%;
   box-shadow: 0 0 0 4px var(--jet);
+  animation: shine 5s infinite;
+}
+
+@keyframes shine {
+  0%{
+    filter: contrast(1);
+  }
+  50%{
+    filter: contrast(1.5);
+  }
+  100%{
+    filter: contrast(1);
+  }
 }
 
 .timeline-text {
   color: var(--light-gray);
   font-weight: var(--fw-300);
   line-height: 1.6;
+  font-family: 'Poppins';
 }
 
 
