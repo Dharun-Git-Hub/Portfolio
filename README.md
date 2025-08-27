@@ -50,7 +50,9 @@ CV / Resume: [Resume-Amz.pdf](https://github.com/user-attachments/files/22003782
 - 💼 [LinkedIn](https://www.linkedin.com/in/dharun-vignesh-g)  Dharun Vignesh G
 - ❤️ https://about-dharun.vercel.app/ Portfolio !
 - 📧 **gdvbca@gmail.com**  
-- 📱 **+91 9514434193**  
+- 📱 **+91 9514434193**
+- 📃 CV: ![cv](https://github.com/user-attachments/assets/07b36b2e-bddd-4de5-9b0b-dfecf52e0770)
+
 
 ---
 
