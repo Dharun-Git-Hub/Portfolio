@@ -126,12 +126,6 @@
   box-sizing: border-box;
 }
 
-.about-bold{
-	font-weight: 500;
-	color: white;
-	font-size: 1.1rem;
-}
-
 a { text-decoration: none; }
 
 li { list-style: none; }
