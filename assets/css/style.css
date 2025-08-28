@@ -135,6 +135,17 @@ input, textarea {
   color: var(--smoky-black);
 }
 
+#resume-btn{
+  animation: blink 4s infinite;
+}
+
+@keyframes blink {
+  50%{
+    background-color: rgba(245, 245, 245, 0.295);
+    color: white;
+  }
+}
+
 *::-webkit-scrollbar{
   display: none;
 }
@@ -2050,4 +2061,5 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+
 
