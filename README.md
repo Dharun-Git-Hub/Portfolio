@@ -53,7 +53,8 @@ CV / Resume: [Resume-Dharun.pdf](https://github.com/user-attachments/files/22066
 - ❤️ https://about-dharun.vercel.app/ Portfolio !
 - 📧 **gdvbca@gmail.com**  
 - 📱 **+91 9514434193**
-- 📃 CV: ![cv](https://github.com/user-attachments/assets/07b36b2e-bddd-4de5-9b0b-dfecf52e0770)
+- 📃 CV: <img width="1080" height="748" alt="Screenshot 2025-08-31 172554" src="https://github.com/user-attachments/assets/3c5af71f-5481-4774-976b-dfd0c7d7e7b9" />
+
 
 
 ---
