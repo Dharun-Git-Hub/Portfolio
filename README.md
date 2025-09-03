@@ -1,7 +1,8 @@
 ## 💫 Who Am I?
 I'm **Dharun Vignesh G**, a passionate Fullstack Web Developer who loves building awesome web applications.<br/>
 I've created some of the Fullstack Applications those are for your kind reference in these Repos ❤️
-CV / Resume: [Resume-Dharun.pdf](https://github.com/user-attachments/files/22066103/Resume-Dharun.pdf)
+CV / Resume: [Resume-Dharun-Q.pdf](https://github.com/user-attachments/files/22123613/Resume-Dharun-Q.pdf)
+
 
 
 
