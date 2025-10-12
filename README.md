@@ -8,7 +8,7 @@ CV / Resume: [Resume-Dharun-Q.pdf](https://github.com/user-attachments/files/221
 
 # Hi there 👋 I'm G. Dharun Vignesh  
 
-💻 **MERN Stack Developer @ Clarisco Solutions, Madurai**  
+💻 **Junior MERN Stack Developer @ Fourchain Technologies, Madurai**  
 🔗 Building scalable web apps | 🚀 Exploring backend & frontend integrations | 🛠️ Passionate about full-stack problem solving  
 
 ---
