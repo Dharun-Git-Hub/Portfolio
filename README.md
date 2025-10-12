@@ -8,7 +8,7 @@ CV / Resume: [Resume-Dharun-Q.pdf](https://github.com/user-attachments/files/221
 
 # Hi there 👋 I'm G. Dharun Vignesh  
 
-💻 **Junior MERN Stack Developer @ Fourchain Technologies, Madurai**  
+💻 **Jr. MERN Stack Developer @ Fourchain Technologies, Madurai**  
 🔗 Building scalable web apps | 🚀 Exploring backend & frontend integrations | 🛠️ Passionate about full-stack problem solving  
 
 ---
